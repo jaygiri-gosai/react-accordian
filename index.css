@@ -1,0 +1,15 @@
+.counter-container {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+}
+.counter-btn-container {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+}
+.increment-btn {
+  margin-right: 10px;
+}
